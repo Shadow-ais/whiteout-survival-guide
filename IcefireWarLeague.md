@@ -122,7 +122,7 @@ Even **free‑to‑play** players can realistically clear all missions for meani
 ## 🧠 Pro Strategies & Tips
 
 1. **Build Depth, Not Just One Monster Team**  
-   You need **15+ well‑developed heroes** to field three competitive squads. Gen 12 heroes shine with high burst and sustainability.
+   You need **9 well‑developed heroes** to field three competitive squads. Gen 12 heroes shine with high burst and sustainability.
 
 2. **Flame Tech First**  
    Invest Fire Crystals into lab nodes for Joint Attack, Suppression, Damage Increase/Reduction. These kingdom‑wide buffs scale perfectly for the three‑formation format.

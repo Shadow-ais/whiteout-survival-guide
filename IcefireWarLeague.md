@@ -150,7 +150,7 @@ Even **free‑to‑play** players can realistically clear all missions for meani
 ## ❓ Frequently Asked Questions
 
 **Q: How many heroes do I need?**  
-A: Aim for **15+** well‑developed heroes spread across three balanced formations. Depth in Gen 12 heroes and their counters matters more than one maxed‑out dream team.
+A: Aim for **9** well‑developed heroes spread across three balanced formations. Depth in Gen 12 heroes and their counters matters more than one maxed‑out dream team.
 
 **Q: Does Flame Tech give a bigger advantage than hero power?**  
 A: Yes. Its kingdom‑wide buffs apply equally to all three squads, often outweighing raw power gaps when research is maxed.
